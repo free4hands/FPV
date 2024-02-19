@@ -1,3 +1,3 @@
 ## **Mobula8**
 
-- ## **[Mobula8 - Технічні Характеристики](specifications.md)**
+- ## **[Технічні Характеристики](specifications.md)**
