@@ -1,3 +1,3 @@
 ## **HappyModel**
 
-- [Mobula8](HappyModel/Mobula8/Mabula8.md)
+- [Mobula8](Mobula8/Mabula8.md)
