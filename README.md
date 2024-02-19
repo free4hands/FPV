@@ -1,3 +1,3 @@
 FPV
 
-- [HappyModel](HappyModel)
+- [HappyModel](HappyModel/HappyModel.md)
